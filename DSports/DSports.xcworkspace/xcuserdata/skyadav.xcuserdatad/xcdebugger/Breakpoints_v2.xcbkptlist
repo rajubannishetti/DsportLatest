@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D631AF8-E193-4E1F-8DF7-1D839686F202"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56CD1EC-6D4F-40F5-9F4D-F0E17D77A7C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/ViewModel/DsportsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getDSportDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2804302A-99C3-42BE-A09D-27E5D6F3045F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/ViewModel/DsportsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getDSportDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "890C1C95-4DA7-42BB-811C-D8D61BF94152"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/DSportsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "DSportsData"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "890C1C95-4DA7-42BB-811C-D8D61BF94152 - e2da52682b0a85ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.DSportsData.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;DSports.DSportsData.CodingKeys&gt;"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/DSportsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "890C1C95-4DA7-42BB-811C-D8D61BF94152 - ab29668fef49fc71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.DSportsData.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/DSportsData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B148481B-8B8C-4281-B9E8-4D41F0AC53FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/DSportsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA0628D9-BD45-4E5E-9F4D-7D03CEC96CBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/DSportsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A7F00B2-835E-4F77-96DC-321CA7655415"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Events.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "Events"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5A7F00B2-835E-4F77-96DC-321CA7655415 - 884259a9a15036d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.Events.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;DSports.Events.CodingKeys&gt;"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Events.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "5A7F00B2-835E-4F77-96DC-321CA7655415 - d6c46f2a84f8d44a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.Events.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Events.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F6FEF4B-C209-4685-B297-659EC55041D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Performers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "Performers"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5F6FEF4B-C209-4685-B297-659EC55041D2 - 5bf11c837c4d872b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.Performers.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;DSports.Performers.CodingKeys&gt;"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Performers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "5F6FEF4B-C209-4685-B297-659EC55041D2 - 22618a5efafef349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.Performers.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Performers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D11932C2-C65E-4073-9B29-3E7898B469B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Performers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "D11932C2-C65E-4073-9B29-3E7898B469B5 - 5bf11c837c4d872b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.Performers.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;DSports.Performers.CodingKeys&gt;"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Performers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "D11932C2-C65E-4073-9B29-3E7898B469B5 - 22618a5efafef349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.Performers.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Performers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "884044E4-B711-4A09-9DEB-CFA4A53C97A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/ViewModel/DsportsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getDSportDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98F82EBF-0E81-498A-98E5-DD8A3A3AFA4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Events.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "CodingKeys"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "98F82EBF-0E81-498A-98E5-DD8A3A3AFA4A - 577ebc874249d0ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.AccessMethod.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;DSports.AccessMethod.CodingKeys&gt;"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Events.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "98F82EBF-0E81-498A-98E5-DD8A3A3AFA4A - 7d51824ab914c9d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.AccessMethod.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Events.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D5B86E8-F294-41DF-B9E4-ED822A0585BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Events.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C3CA396-D6F8-4FE0-BFBE-1FA3951368BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Events.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7658DFEA-F144-4438-9916-554D476F85D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DSports/Model/Events.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "AccessMethod"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "7658DFEA-F144-4438-9916-554D476F85D1 - 577ebc874249d0ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.AccessMethod.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;DSports.AccessMethod.CodingKeys&gt;"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Events.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "7658DFEA-F144-4438-9916-554D476F85D1 - 7d51824ab914c9d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DSports.AccessMethod.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "DSports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skyadav/Downloads/DSports%20copy%202/DSports/Model/Events.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
